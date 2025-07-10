@@ -1,0 +1,43 @@
+{
+  "Pemrograman": {
+    "py001": {
+      "judul": "Belajar Python untuk Pemula",
+      "deskripsi": "Panduan lengkap belajar Python dari nol.",
+      "harga": 15000,
+      "gambar": "https://via.placeholder.com/600x800.png?text=Python+Dasar",
+      "link": "https://drive.google.com/file/d/py001"
+    },
+    "js002": {
+      "judul": "JavaScript Dasar",
+      "deskripsi": "Dasar-dasar JavaScript untuk pemula.",
+      "harga": 20000,
+      "gambar": "https://via.placeholder.com/600x800.png?text=JS+Dasar",
+      "link": "https://drive.google.com/file/d/js002"
+    }
+  },
+  "Bisnis": {
+    "bs001": {
+      "judul": "Bisnis Online dari Nol",
+      "deskripsi": "Cara membangun bisnis online yang sukses.",
+      "harga": 25000,
+      "gambar": "https://via.placeholder.com/600x800.png?text=Bisnis+Online",
+      "link": "https://drive.google.com/file/d/bs001"
+    }
+  },
+  "Desain": {
+    "ds001": {
+      "judul": "Desain Grafis dengan Canva",
+      "deskripsi": "Panduan desain grafis menggunakan Canva.",
+      "harga": 18000,
+      "gambar": "https://via.placeholder.com/600x800.png?text=Desain+Canva",
+      "link": "https://drive.google.com/file/d/ds001"
+    },
+    "ds002": {
+      "judul": "UI/UX Design 101",
+      "deskripsi": "Memahami dasar-dasar UI dan UX.",
+      "harga": 22000,
+      "gambar": "https://via.placeholder.com/600x800.png?text=UIUX",
+      "link": "https://drive.google.com/file/d/ds002"
+    }
+  }
+}
